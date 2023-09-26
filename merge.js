@@ -1,3 +1,4 @@
+// this code merges the pdf
 const PDFMerger = require('pdf-merger-js');
 
 var merger = new PDFMerger();
